@@ -6,7 +6,7 @@ subtitle: Spring 2022
 
 <br>
 
-	| Week | Date | Reading | Assignment | Presentation|
+| Week | Date | Reading | Assignment | Presentation|
 |:------:|:------|:--------:|:------:|----:|
 |  |Jan. 20| Introducción  | | |
 | I   |Jan. 25| | | |
