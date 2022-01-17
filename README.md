@@ -1,5 +1,7 @@
-# Fiesta y enigma
+# README
 
-Backend for the course **Fiesta y enigma** (LS 576).
+Backend for the course **Sor Juana y su mundo** (LS 576).
+Spring 2022.
+
 
 DHC
