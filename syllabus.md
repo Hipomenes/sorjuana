@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Readings
-bigimg: /img/4partes.jpg
+bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 ---
 
 # Unidades y temas
