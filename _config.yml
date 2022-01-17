@@ -2,10 +2,10 @@
 remote_theme: daattali/beautiful-jekyll@5.0.0
 
 # Name of website
-title: Fiesta y enigma
+title: Sor Juana y su mundo
 
 # Short description of your site
-description: La literatura del México virreinal
+description: Una mirada al México virreinal
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
