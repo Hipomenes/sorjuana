@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sor Juana Inés de la Cruz
-subtitle: y su mundo
+title: Sor Juana y su mundo
+subtitle: Primavera 2022
 bigimg: https://upload.wikimedia.org/wikipedia/commons/6/61/Folding_Screen_with_Indian_Wedding_and_Flying_Pole_%28Biombo_con_desposorio_ind%C3%ADgena_y_palo_volador%29_-_Google_Art_Project.jpg
 ---
 
