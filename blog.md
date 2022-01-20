@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Utopía y Contra-utopía
-subtitle: Pensamiento utópico en Hispanoamérica colonial
+title: Enigmas
 use-site-title: true
 ---
 
-Este curso ofrece un panorama del pensamiento utópico en el proceso histórico de consolidación de los virreinatos y territorios hispánicos en las Américas.
-Instructor: David H. Colmenares. 
+![](https://pm1.narvii.com/7240/7b41db247eaf4de4818614ebc03622ca519f5679r1-1022-1022v2_uhq.jpg)
+
+# Enigmas 
+
 
 <div class="posts-list">
   {% for post in paginator.posts %}
