@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grading
-subtitle: Spring 2021
+subtitle: Spring 2022
 ---
 
 <br>
