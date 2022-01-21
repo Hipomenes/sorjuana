@@ -9,8 +9,8 @@ subtitle: Spring 2022
 | Week | Date | Reading | Assignment | Presentation|
 |:------:|:------|:--------:|:------:|----:|
 |  |Jan. 20| Introducción  | | |
-| I   |Jan. 25|  Paz | | |
-|     |Jan. 27| Cazares |  |  |
+| I   |Jan. 25|  Paz; "Hombres necios" | | |
+|     |Jan. 27| Cazares; "Hombres necios" |  |  |
 |II   |Feb. 1 |   |  |  |
 |     |Feb. 3 | |  | |
 |III  |Feb. 8 |  | |  |
