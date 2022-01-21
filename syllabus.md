@@ -17,8 +17,9 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 
 # Semana 1 
 
-## México: una ciudad barroca
+## Una vida novohispana
 
 - Octavio Paz, [“El reino de la Nueva España. Una sociedad singular”](https://bushare-my.sharepoint.com/:u:/g/personal/dhcg_bu_edu/Ee5TsI0d7U5Dp7YXoSFvHcMBasiSal-Hk9Yci97Sc8JRdQ?e=V9QrE5), en *Sor Juana Inés de la Cruz o las trampas de la fe*, México: FCE, 1982, pp. 1-40.
 - Octavio Paz, ["Sílabas las estrellas compongan" y "Los empeños de Juana Inés"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ESQjtjzKqsJKioFrw934OUEB2UDOOHB32vfJTy_bm_NxUw?e=oswUTL), pp. 108-142.
     - <i class="fas fa-feather"></i> "Hombres necios que acusáis" (92)
+
