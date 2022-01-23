@@ -11,7 +11,7 @@ subtitle: Spring 2022
 |  |Jan. 20| Introducción  | | |
 | I   |Jan. 25|  Paz, pp. 1-40; "Hombres necios" | | |
 |     |Jan. 27| Paz, pp. 108-142; "Hombres necios" |  |  |
-|II   |Feb. 1 |  Video; Humbodlt; Lafaye |  |  |
+|II   |Feb. 1 |  Video; Humboldt; Lafaye |  |  |
 |     |Feb. 3 | Jones; "Villancico VIII"; "Villancico VII"  |  | |
 |III  |Feb. 8 |  | |  |
 |     |Feb. 10|  | | |
