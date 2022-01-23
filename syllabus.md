@@ -45,3 +45,8 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
     - <i class="fas fa-feather"></i> Luis Sandoval y Zapata, ["A la transubstanciación admirable de las rosas"]()
     - <i class="fas fa-feather"></i> ["La compuesta de flores Maravilla"]()
 
+# Semana 4
+## Despuntes de la conciencia criolla
+
+    - <i class="fas fa-feather"></i> ["Loa al Divino Narciso*]()
+
