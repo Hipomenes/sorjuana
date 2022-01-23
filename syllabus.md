@@ -43,5 +43,5 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 - Josefina Muriel, ["Los conventos de monjas en la sociedad virreinal"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EYgRw9KflY9AjyJXAV6PZF4BtIw_uZdXvMPa48A0DfrtXg?e=aE1I0I)
 - 
     - <i class="fas fa-feather"></i> Luis Sandoval y Zapata, ["A la transubstanciación admirable de las rosas"]()
-        - <i class="fas fa-feather"></i> ["La compuesta de flores Maravilla"]*()
+        - <i class="fas fa-feather"></i> ["La compuesta de flores Maravilla"]()
 
