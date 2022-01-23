@@ -39,8 +39,9 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 # Semana 3
 ## El convento y la religiosidad barroca
 
-- "Monjas coronadas"(https://youtu.be/wnylNhdtx-Q)
-- Josefina Muriel, "Los conventos de monjas en la sociedad virreinal"(https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EYgRw9KflY9AjyJXAV6PZF4BtIw_uZdXvMPa48A0DfrtXg?e=aE1I0I)
+- <i class="fab fa-youtube"></i> ["Monjas coronadas"](https://youtu.be/wnylNhdtx-Q)
+- Josefina Muriel, ["Los conventos de monjas en la sociedad virreinal"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EYgRw9KflY9AjyJXAV6PZF4BtIw_uZdXvMPa48A0DfrtXg?e=aE1I0I)
 - 
+
 
 
