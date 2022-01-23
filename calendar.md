@@ -15,8 +15,8 @@ subtitle: Spring 2022
 |     |Feb. 3 | Jones; "Villancico VIII"; "Villancico VII"  |  | |
 |III  |Feb. 8 | Video; Muriel| |  |
 |     |Feb. 10| Lascuráin; Sandoval y Zapata; "La compuesta"  | | |
-| IV  |Feb. 15|  | |  |
-|     |Feb. 17|  |  | |
+| IV  |Feb. 15| - | |  |
+|     |Feb. 17| "Loa" |  | |
 | V   |Feb. 24|  |  |  |
 | VI |Mar. 1 | | | |
 |    |Mar. 3 |  | | |
