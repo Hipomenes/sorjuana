@@ -25,7 +25,8 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 
 - Lectura recomendada: Irving Leonard, *Baroque times in old Mexico*, 1960,  [Chapters I](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EXYHh3nvYPdIgGyeMfob2CcBA9YmZCfgVkuYygoVd045sg?e=3gwhIJ) and [III](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EWXJZa2EhdpEr_EyR3UmjYoBJO8_0HxdJB2tXCZBDYkJUw?e=Z1mkWf)
 
-# Sociedad de castas, sociedad mestiza
+# Semana 2
+## Sociedad de castas, sociedad mestiza
 
 - <i class="fab fa-youtube"></i> ["¿Qué son las pinturas de castas?"](https://youtu.be/yk6fAcqfvEk) (2 min.)
 - Humboldt, ["La población mexicana"](), en *Ensayo político sobre el reino de la Nueva España*, México, Porrúa, 1966 1
@@ -35,5 +36,11 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
     - <i class="fas fa-feather"></i> ["Villancico VIII. Ensaladilla" (241) & "Villancico VII. Negrillo." (XVI)](). 
     - <i class="fas fa-music"></i> ["Vamo Turu A Belé"](https://youtu.be/mZc_OmGwaxg)
 
+# Semana 3
+## El convento y la religiosidad barroca
+
+- "Monjas coronadas"(https://youtu.be/wnylNhdtx-Q)
+- Josefina Muriel, "Los conventos de monjas en la sociedad virreinal"(https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EYgRw9KflY9AjyJXAV6PZF4BtIw_uZdXvMPa48A0DfrtXg?e=aE1I0I)
+- 
 
 
