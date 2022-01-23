@@ -48,5 +48,5 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 # Semana 4
 ## Despuntes de la conciencia criolla
 
-    - <i class="fas fa-feather"></i> ["Loa para el auto sacramental de *El Divino Narciso*"]() (367)
+- <i class="fas fa-feather"></i> ["Loa para el auto sacramental de *El Divino Narciso*"]() (367)
 
