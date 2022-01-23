@@ -33,7 +33,7 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 - Jacques Lafaye, ["La sociedad de castas en la Nueva España"]( http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326827 ), en *Artes de Mexico*, 1990, pp. 24-35.
 - Nicholas R. Jones, ["Sor Juana's Black Atlantic: Colonial Blackness and the Poetic Subversions of *Habla de negros*"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi6mZj_1Mj1AhVQjYkEHW2DBFEQFnoECAcQAQ&url=https%3A%2F%2Fmuse.jhu.edu%2Farticle%2F700593%2Fpdf&usg=AOvVaw2g2W-vGpRPSPx_IM__asF9)
     - <i class="fas fa-feather"></i> ["Villancico VIII. Ensaladilla" (241) & "Villancico VII. Negrillo." (XVI)](). 
-    - <i class="fa-music"></i> ["Vamo Turu A Belé"](https://youtu.be/mZc_OmGwaxg)
+    - <i class="fas fa-music"></i> ["Vamo Turu A Belé"](https://youtu.be/mZc_OmGwaxg)
 
 
 
