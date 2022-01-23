@@ -41,7 +41,7 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 
 - <i class="fab fa-youtube"></i> ["Monjas coronadas"](https://youtu.be/wnylNhdtx-Q)
 - Josefina Muriel, ["Los conventos de monjas en la sociedad virreinal"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EYgRw9KflY9AjyJXAV6PZF4BtIw_uZdXvMPa48A0DfrtXg?e=aE1I0I) en *Artes de Mexico* No. 198, 1979, pp. 7-23.
--  Ana Rita Valero de García Lascuráin, [La devoción de Guadalupe: a la luz de la historia"]() en *Artes de Mexico* No. 125, 2017, pp. 54-63. 
+-  Ana Rita Valero de García Lascuráin, ["La devoción de Guadalupe: a la luz de la historia"]() en *Artes de Mexico* No. 125, 2017, pp. 54-63. 
     - <i class="fas fa-feather"></i> Luis Sandoval y Zapata, ["A la transubstanciación admirable de las rosas"]()
     - <i class="fas fa-feather"></i> ["La compuesta de flores Maravilla"]()
 
