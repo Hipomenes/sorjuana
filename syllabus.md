@@ -24,3 +24,16 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
     - <i class="fas fa-feather"></i> "Hombres necios que acusáis" (92)
 
 - Lectura recomendada: Irving Leonard, *Baroque times in old Mexico*, 1960,  [Chapters I](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EXYHh3nvYPdIgGyeMfob2CcBA9YmZCfgVkuYygoVd045sg?e=3gwhIJ) and [III](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EWXJZa2EhdpEr_EyR3UmjYoBJO8_0HxdJB2tXCZBDYkJUw?e=Z1mkWf)
+
+# Sociedad de castas, sociedad mestiza
+
+- Video: ["¿Qué son las pinturas de castas?"](https://youtu.be/yk6fAcqfvEk) (2 min.)
+- Humboldt, ["La población mexicana"](), en *Ensayo político sobre el reino de la Nueva España*, México, Porrúa, 1966 1
+[1807-1811], 51, 89.
+- Jacques Lafaye, ["La sociedad de castas en la Nueva España"]( http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326827 ), en *Artes de Mexico*, 1990, pp. 24-35.
+- Nicholas R. Jones, ["Sor Juana's Black Atlantic: Colonial Blackness and the Poetic Subversions of *Habla de negros*"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi6mZj_1Mj1AhVQjYkEHW2DBFEQFnoECAcQAQ&url=https%3A%2F%2Fmuse.jhu.edu%2Farticle%2F700593%2Fpdf&usg=AOvVaw2g2W-vGpRPSPx_IM__asF9)
+    - <i class="fas fa-feather"></i> ["Villancico VIII. Ensaladilla" (241) & "Villancico VII. Negrillo." (XVI)](). 
+    - Version musicalizada: ["Vamo Turu A Belé"](https://youtu.be/mZc_OmGwaxg)
+
+
+
