@@ -24,6 +24,7 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
     - <i class="fas fa-feather"></i> "Hombres necios que acusáis" (92)
 
 - Lectura recomendada: Irving Leonard, *Baroque times in old Mexico*, 1960,  [Chapters I](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EXYHh3nvYPdIgGyeMfob2CcBA9YmZCfgVkuYygoVd045sg?e=3gwhIJ) and [III](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EWXJZa2EhdpEr_EyR3UmjYoBJO8_0HxdJB2tXCZBDYkJUw?e=Z1mkWf)
+- En clase: ["Plaza mayor"](https://upload.wikimedia.org/wikipedia/commons/6/63/Plaza_Mayor_de_la_Ciudad_de_M%C3%A9xico_por_Diego_Garc%C3%ADa_Conde%2C_1765.jpg)
 
 # Semana 2
 ## Sociedad de castas, sociedad mestiza
