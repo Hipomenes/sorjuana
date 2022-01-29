@@ -33,7 +33,7 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 [1807-1811], 51, 89.
 - Jacques Lafaye, ["La sociedad de castas en la Nueva España"]( http://ezproxy.bu.edu/login?url=https://www.jstor.org/stable/24326827 ), en *Artes de Mexico* No. 8, 1990, pp. 24-35.
 - Nicholas R. Jones, ["Sor Juana's Black Atlantic: Colonial Blackness and the Poetic Subversions of *Habla de negros*"](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi6mZj_1Mj1AhVQjYkEHW2DBFEQFnoECAcQAQ&url=https%3A%2F%2Fmuse.jhu.edu%2Farticle%2F700593%2Fpdf&usg=AOvVaw2g2W-vGpRPSPx_IM__asF9)
-    - <i class="fas fa-feather"></i> ["Villancicos a San Pedro Nolasco, 1677. Tercer Nocturno" (240 y 241) & "Villancicos de Navidad, 1678, Tercer Nocturno" (XVI)](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EWS__NEJc8xEm-SK5HYAHuIBZaQwZHn2jaBVZFzwRJ4_Zg?e=gj91Xk). 
+    - <i class="fas fa-feather"></i> ["Villancicos a San Pedro Nolasco, 1677. Tercer Nocturno" (240 y 241).](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EWS__NEJc8xEm-SK5HYAHuIBZaQwZHn2jaBVZFzwRJ4_Zg?e=gj91Xk).
     - <i class="fas fa-music"></i> ["Vamo Turu A Belé"](https://youtu.be/mZc_OmGwaxg)
 
 # Semana 3
