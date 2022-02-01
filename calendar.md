@@ -12,7 +12,7 @@ subtitle: Spring 2022
 | I   |Jan. 25|  Paz, pp. 1-40; "Hombres necios" | | |
 |     |Jan. 27| Paz, pp. 108-142; "Hombres necios" |  |  |
 |II   |Feb. 1 |  Video; Humboldt; Lafaye |  |  |
-|     |Feb. 3 | Jones; "Villancico VIII"; "Villancico VII"  |  | |
+|     |Feb. 3 | Jones; "Villancico VIII"  |  | |
 |III  |Feb. 8 | Video; Muriel| |  |
 |     |Feb. 10| Lascuráin; Sandoval y Zapata; "La compuesta"  | | |
 | IV  |Feb. 15| - | |  |
