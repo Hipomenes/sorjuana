@@ -56,4 +56,13 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 - Fernando R. de la Flor, ["El regimen visual del barroco"]() en *Imago. La cultura visual y figurativa del barroco*, Madrid, 2011, pp. 5-40.
 - [*El angel admonitorio del desengano del mundo*]()
     - <i class="fas fa-feather"></i> ["Este que vez engano colorido", "Miro, Celia una rosa que en el prado", "Rosa divina que en gentil cultura"]() 
+
+# Semana 6 
+
+Spring Break.
+
+# Semana 7
+## Casuistica del amor
+
+
  
