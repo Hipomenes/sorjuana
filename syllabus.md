@@ -44,7 +44,7 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 - Antonio Valeriano, [Nican Mopohua](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ERFq1dozDdBMn16lYaR5gbMBGX7r2A4bDusZ4m5wVNU72w?e=GDktDp)
     - <i class="fas fa-feather"></i> ["La compuesta de flores Maravilla"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EXRxsgepmypGjSL2MeMEDu4BlcoU_x-w03HAM4uQyF0F9g?e=Q2SEhK) (206)
 
-### Lectura sugerida
+### Para saber más
 
 -  Ana Rita Valero de García Lascuráin, ["La devoción de Guadalupe: a la luz de la historia"]() en *Artes de Mexico* No. 125, 2017, pp. 54-63. 
 
@@ -52,6 +52,10 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 ## Despuntes de la conciencia criolla
 
 - <i class="fas fa-feather"></i> ["Loa para el auto sacramental de *El Divino Narciso*"]() (367)
+
+### Para saber más
+
+- Enrique Marini Palmieri, ["Notas a la «Loa» del Divino Narciso, auto sacramental de Sor Juana Inés de la Cruz"](https://pdfs.semanticscholar.org/03f0/5fb9ac25560c8fbbf5462e7ff3641691594f.pdf)
 
 # Semana 5 
 ## Poéticas del desengaño
