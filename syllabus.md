@@ -41,9 +41,12 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 
 - <i class="fab fa-youtube"></i> ["Monjas coronadas"](https://youtu.be/wnylNhdtx-Q)
 - Josefina Muriel, ["Los conventos de monjas en la sociedad virreinal"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EYgRw9KflY9AjyJXAV6PZF4BtIw_uZdXvMPa48A0DfrtXg?e=aE1I0I) en *Artes de Mexico* No. 198, 1979, pp. 7-23.
+- Antonio Valeriano, [Nican Mopohua](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ERFq1dozDdBMn16lYaR5gbMBGX7r2A4bDusZ4m5wVNU72w?e=GDktDp)
+    - <i class="fas fa-feather"></i> ["La compuesta de flores Maravilla"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EXRxsgepmypGjSL2MeMEDu4BlcoU_x-w03HAM4uQyF0F9g?e=Q2SEhK) (206)
+
+### Lectura sugerida
+
 -  Ana Rita Valero de García Lascuráin, ["La devoción de Guadalupe: a la luz de la historia"]() en *Artes de Mexico* No. 125, 2017, pp. 54-63. 
-    - <i class="fas fa-feather"></i> Luis Sandoval y Zapata, ["A la transubstanciación admirable de las rosas"]()
-    - <i class="fas fa-feather"></i> ["La compuesta de flores Maravilla"]() (206)
 
 # Semana 4
 ## Despuntes de la conciencia criolla
@@ -64,5 +67,6 @@ Spring Break.
 # Semana 7
 ## Casuistica del amor
 
+- Lo poemas amorosos de sor Juana
 
  
