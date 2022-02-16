@@ -52,6 +52,7 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 ## Despuntes de la conciencia criolla
 
 - <i class="fas fa-feather"></i> ["Loa para el auto sacramental de *El Divino Narciso*"](https://gaceta.cch.unam.mx/sites/default/files/libros/2021-08/divinonarciso_interiores_final.pdf) (Prólogo y Loa)
+- Simon Kroll, ["Sor Juana: ingenio, transubstanciación y metamorfosis. Algunos comentarios de El divino Narciso (loa y auto)"](https://www.academia.edu/49087417/Sor_Juana_ingenio_transubstanciaci%C3%B3n_y_metamorfosis_Algunos_comentarios_de_El_divino_Narciso_loa_y_auto_)
 
 ### Para saber más
 
