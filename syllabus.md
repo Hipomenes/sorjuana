@@ -61,9 +61,9 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 # Semana 5 
 ## Poéticas del desengaño
 
-- Fernando R. de la Flor, ["El regimen visual del barroco"]() en *Imago. La cultura visual y figurativa del barroco*, Madrid, 2011, pp. 5-40.
-- [*El angel admonitorio del desengano del mundo*]()
-    - <i class="fas fa-feather"></i> ["Este que vez engano colorido", "Miro, Celia una rosa que en el prado", "Rosa divina que en gentil cultura"]() 
+- Fernando R. de la Flor, ["El regimen visual del barroco"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EdFoPJ_hZLZImcTJ0DoVM5cBpdqGYO8nhbGHrP4pRBnY1g?e=8pvGnG) en *Imago. La cultura visual y figurativa del barroco*, Madrid, 2011, pp. 5-40.
+- [*El angel admonitorio del desengano del mundo*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ETLWoaUmQH1Hpi9zK_dPhukBO8K30CT3LTd06ewzE9Bi1w?e=Zsq5cH)
+    - <i class="fas fa-feather"></i> ["Este que vez engano colorido", "Miro, Celia una rosa que en el prado", "Rosa divina que en gentil cultura"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EfHOfEAKFQtLjlYW0BU3UoABbrrWE0_uJwpqQY4FkQbByg?e=uL9HWR) 
 
 # Semana 6 
 
