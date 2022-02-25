@@ -69,6 +69,8 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 ## Casuistica del amor
 
 - Sabat de Rivers, ["Veintiún sonetos de Sor Juana y su casuística del amor"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EZIUJq7JskxMiyE9bE_2qe8BoKe04YjmcFfZ8wHR_Vaw8A?e=dR7xsQ)
+  - <i class="fas fa-feather"></i> [Dos romances](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EdF48iChmaxOmLKDNVLIx0gBtvs-IASPC2b3rEyvvZKdHw?e=Pfc8Wp) 
+ 
 
 ### Para saber más
 
