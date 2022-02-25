@@ -18,8 +18,8 @@ subtitle: Spring 2022
 | IV  |Feb. 15| - | |  |
 |     |Feb. 17| "Loa" |  | |
 | V   |Feb. 24|  |  |  |
-| VI |Mar. 1 | | | |
-|    |Mar. 3 |  | | |
+| VI |Mar. 1 | Sabat de Ribers; Dos Romances | | |
+|    |Mar. 3 | Sonetos | | |
 |VII  |Mar. 8| **No hay clase** | |  |
 |  |Mar. 10| **No hay clase** | | |
 |VIII  |Mar. 15| | | |
