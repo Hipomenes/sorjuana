@@ -65,13 +65,16 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 - [*El angel admonitorio del desengano del mundo*](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ETLWoaUmQH1Hpi9zK_dPhukBO8K30CT3LTd06ewzE9Bi1w?e=Zsq5cH)
     - <i class="fas fa-feather"></i> ["Este que vez engano colorido", "Miro, Celia una rosa que en el prado", "Rosa divina que en gentil cultura"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EfHOfEAKFQtLjlYW0BU3UoABbrrWE0_uJwpqQY4FkQbByg?e=uL9HWR) 
 
-# Semana 6 
+# Semana 6
+## Casuistica del amor
+
+- Sabat de Rivers, ["Veintiún sonetos de Sor Juana y su casuística del amor"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EZIUJq7JskxMiyE9bE_2qe8BoKe04YjmcFfZ8wHR_Vaw8A?e=dR7xsQ)
+
+### Para saber más
+
+- Margo Glantz, ["El jeroglífico del sentimiento"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ESWRad1VBT5Jko1dl1kw-WgBk1w3g7uphW-KH7amPcUzgg?e=CqcCZ0)
+
+# Semana 7 
 
 Spring Break.
 
-# Semana 7
-## Casuistica del amor
-
-- Lo poemas amorosos de sor Juana
-
- 
