@@ -85,3 +85,6 @@ Spring Break.
 ## Teatro áureo novohispano
 
 - Juan Ruiz de Alarcón, [“La verdad sospechosa" (ca. 1621)](http://teatroteca.teatro.es/opac/?id=00013941#recordCard) 
+
+### Para saber mas
+- Alfonso Reyes, [Juan Ruiz de Alarcon](https://www.cervantesvirtual.com/obra-visor/medallones/html/e2eff529-f6b6-4004-a965-83d1e5a222ce.html)
