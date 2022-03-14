@@ -81,3 +81,7 @@ bigimg: http://www.ilovelibraries.org/sites/default/files/palafoxianazoom.png
 
 Spring Break.
 
+# Semana 8
+## Teatro áureo novohispano
+
+- Juan Ruiz de Alarcón, [“La verdad sospechosa" (ca. 1621)](http://teatroteca.teatro.es/opac/?id=00013941#recordCard) 
