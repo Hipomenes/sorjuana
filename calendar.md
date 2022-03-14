@@ -22,8 +22,8 @@ subtitle: Spring 2022
 |    |Mar. 3 | Sonetos | | |
 |VII  |Mar. 8| **No hay clase** | |  |
 |  |Mar. 10| **No hay clase** | | |
-|VIII  |Mar. 15| | | |
-|      |Mar. 17| |
+|VIII  |Mar. 15| Alarcón, "La verdad sospechosa" | | |
+|      |Mar. 17| Alarcón, "La verdad sospechosa" |
 | IX   |Mar. 22| |  | |
 |      |Mar. 24| | | |
 | X   |Mar. 29|  | | |
