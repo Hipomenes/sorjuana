@@ -84,7 +84,7 @@ Spring Break.
 # Semana 8
 ## Teatro áureo novohispano
 
-- Juan Ruiz de Alarcón, [“La verdad sospechosa" (ca. 1621)](http://teatroteca.teatro.es/opac/?id=00013941#recordCard) 
+- Juan Ruiz de Alarcón, “La verdad sospechosa" (ca. 1621), en la [Teatroteca](http://teatroteca.teatro.es/opac/?id=00013941#recordCard) o [Youtube](https://youtu.be/qg9jj2t5O1U)
 
 ### Para saber mas
 - Alfonso Reyes, [Juan Ruiz de Alarcon](https://www.cervantesvirtual.com/obra-visor/medallones/html/e2eff529-f6b6-4004-a965-83d1e5a222ce.html)
