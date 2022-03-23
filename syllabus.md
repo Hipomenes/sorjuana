@@ -88,3 +88,35 @@ Spring Break.
 
 ### Para saber mas
 - Alfonso Reyes, [Juan Ruiz de Alarcon](https://www.cervantesvirtual.com/obra-visor/medallones/html/e2eff529-f6b6-4004-a965-83d1e5a222ce.html)
+
+# Semana 9
+## Precedentes autobiográficos
+
+- Teresa de Cartagena, ["Arboleda de los enfermos" (ca. 1481)](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EV--rmhQ1L9Kk-6mhZ0lez0BPUNcA_m8iQvPb2BdSR8n8Q?e=jFU2BP)
+ 
+
+# Semana 10
+## La Respuesta a Sor Filotea, I
+
+-  <i class="fas fa-feather"></i> [Respuesta a Sor Filotea](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ESFRRaooFTxDkqDBKpnnNYgB7LjEU75GT7HEkw-GFn-rIA?e=uDOpl9)
+
+
+# Semana 11
+## La Respuesta a Sor Filotea, II
+
+-  <i class="fas fa-feather"></i> [Respuesta a Sor Filotea](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ESFRRaooFTxDkqDBKpnnNYgB7LjEU75GT7HEkw-GFn-rIA?e=uDOpl9)
+
+
+# Semana 12
+## Primero Sueño I
+
+-  <i class="fas fa-feather"></i> [Primero Sueño](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ESFRRaooFTxDkqDBKpnnNYgB7LjEU75GT7HEkw-GFn-rIA?e=uDOpl9)
+
+# Semana 13
+# Primero Sueño II
+
+-  <i class="fas fa-feather"></i> [Primero Sueño](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ESFRRaooFTxDkqDBKpnnNYgB7LjEU75GT7HEkw-GFn-rIA?e=uDOpl9)
+
+# Semana 14
+# Taller de trabajos finales
+
