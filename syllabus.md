@@ -98,13 +98,13 @@ Spring Break.
 # Semana 10
 ## La Respuesta a Sor Filotea, I
 
--  <i class="fas fa-feather"></i> [Respuesta a Sor Filotea](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ESFRRaooFTxDkqDBKpnnNYgB7LjEU75GT7HEkw-GFn-rIA?e=uDOpl9)
+-  <i class="fas fa-feather"></i> [Respuesta a Sor Filotea](https://drive.google.com/file/d/1xM81wyjqSvMivw2GaBot_mkpv_laF239/view?usp=sharing)
 
 
 # Semana 11
 ## La Respuesta a Sor Filotea, II
 
--  <i class="fas fa-feather"></i> [Respuesta a Sor Filotea](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ESFRRaooFTxDkqDBKpnnNYgB7LjEU75GT7HEkw-GFn-rIA?e=uDOpl9)
+-  <i class="fas fa-feather"></i> [Respuesta a Sor Filotea](https://drive.google.com/file/d/1xM81wyjqSvMivw2GaBot_mkpv_laF239/view?usp=sharing)
 
 
 # Semana 12
