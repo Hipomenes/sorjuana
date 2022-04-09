@@ -110,12 +110,13 @@ Spring Break.
 # Semana 12
 ## Primero Sueño I
 
--  <i class="fas fa-feather"></i> [Primero Sueño](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ESFRRaooFTxDkqDBKpnnNYgB7LjEU75GT7HEkw-GFn-rIA?e=uDOpl9)
+- Alatorre, ["Invitación a la lectura de Primero Sueño"](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EVjIAo108ERKpX_6dS42xswBEa7EJuvOIgUEFeCPzV_03w?e=67ezpp)
+-  <i class="fas fa-feather"></i> [Primero Sueño](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EVjIAo108ERKpX_6dS42xswBEa7EJuvOIgUEFeCPzV_03w?e=67ezpp) ~ [Versión para escuchar](https://descargacultura.unam.mx/primero-sueno-28636)
 
 # Semana 13
 # Primero Sueño II
 
--  <i class="fas fa-feather"></i> [Primero Sueño](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/ESFRRaooFTxDkqDBKpnnNYgB7LjEU75GT7HEkw-GFn-rIA?e=uDOpl9)
+-  <i class="fas fa-feather"></i> [Primero Sueño](https://bushare-my.sharepoint.com/:b:/g/personal/dhcg_bu_edu/EVjIAo108ERKpX_6dS42xswBEa7EJuvOIgUEFeCPzV_03w?e=67ezpp)
 
 # Semana 14
 # Taller de trabajos finales
