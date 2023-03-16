@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: schedule
 subtitle: Spring 2022
 ---
 
